@@ -240,4 +240,4 @@ This repository serves as the official landing page for LinCity-NG. The software
 **Get the most recent version of LinCity-NG today!**
 
 ---
-**Last updated:** 2026-11-01 08:22:06 UTC
+**Last updated:** 2026-11-01 15:33:53 UTC
